@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/common/Page.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/common/Search.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/common/web/LogonCheckInterceptor.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/domain/User.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/user/UserDao.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/user/UserService.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/user/impl/UserDaoImpl.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/user/impl/UserServiceImpl.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/web/user/UserController.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/web/user/UserRestController.java" charset="EUC-KR" />
+  </component>
+</project>

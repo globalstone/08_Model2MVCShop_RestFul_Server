@@ -9,6 +9,8 @@
     <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/user/UserService.java" charset="EUC-KR" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/user/impl/UserDaoImpl.java" charset="EUC-KR" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/service/user/impl/UserServiceImpl.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/web/purchase/PurchaseController.java" charset="EUC-KR" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/web/purchase/PurchaseRestController.java" charset="EUC-KR" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/web/user/UserController.java" charset="EUC-KR" />
     <file url="file://$PROJECT_DIR$/src/main/java/com/model2/mvc/web/user/UserRestController.java" charset="EUC-KR" />
   </component>
